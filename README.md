@@ -149,23 +149,6 @@ A simple interactive web application is developed using Gradio.
 
 Users can enter a comment and receive the model's prediction through the web interface.
 
-## 📁 Project Structure
-
-```text
-Toxic-Comment-Classification/
-│
-├── Toxic_Comment_Classification.ipynb
-│
-├── tfidf_vectorizer.pkl
-├── best_toxicity_model.pkl
-│
-├── README.md
-│
-└── requirements.txt
-```
-
-*The files listed above should be included only if they are present in your final project folder.*
-
 ## 🚀 Future Enhancements
 
 - Use larger and more diverse toxicity datasets.
@@ -188,9 +171,6 @@ Through this project, I gained practical experience in:
 - Deploying ML applications using Gradio.
 - Understanding basic model monitoring.
 
-## ⚠️ Limitations
-
-This project uses a relatively small dataset with only two classification categories. Predictions may not correctly identify every form of toxicity, sarcasm, context, or subtle language. The model should be treated as a learning and demonstration project rather than a production-ready moderation system.
 
 ## 👨‍💻 Author
 
